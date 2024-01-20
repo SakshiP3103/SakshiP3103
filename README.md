@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sakshi Pachlaniya</h1>
 
-<h3 align="center">Frontend developer |Java developer |Cyber security</h3>
+<h3 align="center">Full Stack developer |Java developer |Cyber security</h3>
 
 
 - 🔭 I’m currently working on **Web development**
 
-- 🌱 I’m currently learning **Express.js**
+- 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **development and technology**
 
