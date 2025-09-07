@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Sakshi Pachlaniya</h1>
 
-<h3 align="center">Full Stack developer |Java developer |Cyber security</h3>
+<h3 align="center">Devops Engineer </h3>
 
 
-- 🔭 I’m currently working on **Web development**
+- 🔭 I’m currently working on **Kubernetes**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Google Cloud Platform**
 
-- 💬 Ask me about **development and technology**
+- 💬 Ask me about **devops and technology**
 
 - 📫 How to reach me **sakshipachlaniya@gmail.com**
-
-- ⚡ Fun fact **exploring in cyber security**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
